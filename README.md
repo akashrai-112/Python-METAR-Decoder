@@ -9,10 +9,10 @@ A Python application to decode METAR (Meteorological Aereodrome Report) weather 
   - Tkinter
     ## Project Screenshots
     ### Output 1
-    ![Output 1 ] (met1.png)
+    ![Output 1 ](met1.png)
 
     ### Output 2
-    ! [Output 2 ] (met4.png)
+    ! [Output 2 ](met4.png)
     
   ## Author
   Akash Rai
